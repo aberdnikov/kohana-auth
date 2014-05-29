@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/auth",
+	"name":        "meerkat/kohana-auth",
 	"type":        "kohana-module",
 	"description": "The official Kohana auth module",
 	"homepage":    "http://kohanaframework.org",
